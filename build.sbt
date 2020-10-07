@@ -1,4 +1,4 @@
-val cucumberVersion = "6.2.0"
+val cucumberVersion = "6.8.1"
 
 libraryDependencies ++= Seq(
   "io.cucumber" %% "cucumber-scala" % cucumberVersion % Test,
